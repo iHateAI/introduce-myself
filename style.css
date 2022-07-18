@@ -82,12 +82,14 @@ main .profile .text-container .introduction-section .introduction-article {
   border-radius: 15px;
   text-align: center;
   line-height: 100px;
+  overflow: hidden;
 }
 
 main .profile .text-container .introduction-section .introduction-article p {
   color: #eee;
   font-weight: bold;
   transition: all 0.1s linear;
+  
 }
 
 main .profile .text-container .introduction-section .introduction-article p:hover {
